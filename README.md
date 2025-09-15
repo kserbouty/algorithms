@@ -25,19 +25,28 @@
 
 ## About
 
-Ending [Introduction to Programming in Java](https://github.com/kserbouty/programming-java) and [Computer Science](https://github.com/kserbouty/computer-science) with important algorithms and data structures in use today.
+Examining important algorithms and data structures in science, engineering, and industry.
+
+Textbook coauthored by [Robert Sedgewick](https://www.cs.princeton.edu/people/profile/rs) and [Kevin Wayne](https://www.cs.princeton.edu/people/profile/wayne) at Princeton University.
 
 ## Documentation
 
-### Princeton University
+### Princeton
 
-- [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
+- [Algorithms, 4th Edition (Princeton)](https://algs4.cs.princeton.edu/home/)
 
 ### External Links
 
-- [Oracle: JDK 21 Documentation](https://docs.oracle.com/en/java/javase/21/)
+- [JDK 21 Documentation (Oracle)](https://docs.oracle.com/en/java/javase/21/)
 
 ## Roadmap
+
+### Prerequisites
+
+- [ ] [Introduction to Programming in Java (GitHub)](https://github.com/kserbouty/programming-java)
+- [ ] [Computer Science (GitHub)](https://github.com/kserbouty/computer-science)
+
+### Textbook
 
 - [ ] [Chapter 1: Fundamentals](https://algs4.cs.princeton.edu/10fundamentals)
 - [ ] [Chapter 2: Sorting](https://algs4.cs.princeton.edu/20sorting)
@@ -48,4 +57,4 @@ Ending [Introduction to Programming in Java](https://github.com/kserbouty/progra
 
 ## License
 
-This project is released under [the MIT License](./LICENSE.md).
+This project is released under the [MIT License](./LICENSE.md).
