@@ -34,7 +34,7 @@ Textbook coauthored by [Robert Sedgewick](https://www.cs.princeton.edu/people/pr
 - [Introduction to Programming in Java (GitHub)](https://github.com/kserbouty/programming-java)
 - [Computer Science (GitHub)](https://github.com/kserbouty/computer-science)
 
-## Support
+## Resources
 
 - [Algorithms, 4th Edition (Princeton)](https://algs4.cs.princeton.edu/home/)
 - [Java SE 21 & JDK 21 API Specification (Oracle)](https://docs.oracle.com/en/java/javase/21/)
